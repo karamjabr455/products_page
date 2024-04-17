@@ -1,0 +1,8 @@
+.photo{
+    width: 180px;
+    height: 350px;
+    border: 1px solid black;
+    border-radius:150px 150px 150px 150px;
+   margin-left: 50px;
+   transform:rotate(15deg);
+}
